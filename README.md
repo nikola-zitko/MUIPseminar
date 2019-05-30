@@ -1,5 +1,5 @@
 
-# Extension Engine Summer Camp project website
+# College project website
 
 ## Frontend
 Vue.JS
@@ -11,6 +11,3 @@ Node.JS with Express
   - To-Do list
   - Memo's
   - ...and much more
-  
-## Website link: https://nikola-zitko.github.io/#/
-
