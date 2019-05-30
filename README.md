@@ -11,3 +11,9 @@ Node.JS with Express
   - To-Do list
   - Memo's
   - ...and much more
+
+## Localhost setup:
+- run "npm install" to install dependencies
+- run "nodemon index.js" to setup the localhost server
+- run "vue serve" to launch the website
+
