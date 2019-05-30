@@ -1,7 +1,7 @@
 <template>
   <div class="about">
-    <h1>EE SummerCamp 2019 Website</h1>
-    <p>This website was made as a project for a summercamp.
+    <h1>Memo and Todo Website</h1>
+    <p>This website was made as a project for college.
     </p>
     <div class="author">
       <ul>

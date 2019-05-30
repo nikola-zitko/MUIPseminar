@@ -24,22 +24,22 @@ var IDcounter = 10;
 var todos = [
     {
         id: 1,
-        title: "delectus aut autem",
+        title: "Polozit MUIP",
         completed: false 
     },
     {
         id: 2,
-        title: "quis ut nam facilis et officia qui",
-        completed: true 
+        title: "Proc drugi kolokvij",
+        completed: false
     },
     {
         id: 3,
-        title: "fugiat veniam minus",
+        title: "Ne razocarati profesoricu",
         completed: true 
     },
     {
         id: 4,
-        title: "et porro tempora",
+        title: "Obraniti seminar",
         completed: false 
     }
 ];

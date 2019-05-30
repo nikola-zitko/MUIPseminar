@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-     <h1>EE SummerCamp 2019 Website</h1>
+     <h1>Your Personal Memo's and Todo's</h1>
      <h2>Work In Progress!</h2>
   </div>
 </template>
